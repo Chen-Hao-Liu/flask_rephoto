@@ -4,4 +4,4 @@
 
 ## Preview
 
-[![Current Site](https://github.com/Chen-Hao-Liu/flask_rephoto/blob/master/flaskr/static/imgs/screenCapture.png)](https://chhaoliu.pythonanywhere.com/)
+[![Current Site](https://github.com/Chen-Hao-Liu/flask_rephoto/blob/master/flaskr/static/imgs/screenCapture.png)](https://rameme.pythonanywhere.com/)
